@@ -5,7 +5,7 @@ public class FibonacciSequence implements Sequence {
     @Override
     public int next() {
 
-        //TODO da completare
+        //TODO da completare, magari prova con un arrayList
 
         f1=+f2;
         f2++;
